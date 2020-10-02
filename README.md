@@ -2,4 +2,4 @@
 
 untuk menjalankan :
 1. npm i 
-2. setelah back-end berhasil jalan maka => npm start
+2. setelah back-end berhasil jalan maka => npm start pada folder example
